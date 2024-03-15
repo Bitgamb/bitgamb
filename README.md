@@ -1,4 +1,4 @@
-![Header](./[https://github.com/Bitgamb/bitgamb/blob/main/Readme_header.png])
+![Header](./https://github.com/Bitgamb/bitgamb/blob/main/Readme_header.png)
 # 💫 About Me:
 ♂️ Soham Mokal, 21<br><br>📍 Mumbai, Maharashtra<br><br>👨🏻‍🎓 B.Sc.IT student currently in Third Year.<br><br>🗣  Head Co-ordinator of intercollegiate fest "BYTE IT"<br><br>💻 Editing Experience of more than 4 years on Adobe Premiere Pro and Adobe Photoshop
 
