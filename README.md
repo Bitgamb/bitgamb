@@ -25,7 +25,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bitgamb&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+
 ![cat_launch](https://github.com/Bitgamb/bitgamb/assets/104263923/8b3a5f79-03ab-4265-aedb-da5747ba5559)
 
   ## 💰 You can help me by Donating
